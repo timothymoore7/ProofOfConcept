@@ -1,0 +1,17 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [1/30/2017 10:24:57 PM] Emulator config file set to C:\Users\timothymo\Documents\Visual Studio 2015\Projects\Log4NetSplunkIntegration\Log4NetSplunkIntegration\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [1/30/2017 10:24:57 PM] DiagnosticsStoreRootPath set to: C:\Users\timothymo\AppData\Local\dftmp\Resources\a9096371-e5fc-4680-b5ca-ae4784c06f00
+DiagnosticsPluginLauncher.exe Information: 0 : [1/30/2017 10:24:57 PM] Loading config file: C:\Users\timothymo\Documents\Visual Studio 2015\Projects\Log4NetSplunkIntegration\Log4NetSplunkIntegration\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [1/30/2017 10:24:57 PM] Config file to read: C:\Users\timothymo\Documents\Visual Studio 2015\Projects\Log4NetSplunkIntegration\Log4NetSplunkIntegration\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [1/30/2017 10:24:57 PM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [1/30/2017 10:24:57 PM] Emulator config file set to C:\Users\timothymo\Documents\Visual Studio 2015\Projects\Log4NetSplunkIntegration\Log4NetSplunkIntegration\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [1/30/2017 10:24:57 PM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [1/30/2017 10:24:57 PM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [1/30/2017 10:24:57 PM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [1/30/2017 10:24:57 PM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [1/30/2017 10:24:57 PM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [1/30/2017 10:24:57 PM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [1/30/2017 10:24:57 PM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [1/30/2017 10:24:58 PM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [1/30/2017 10:24:58 PM] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [1/30/2017 10:26:08 PM] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [1/30/2017 10:26:08 PM] DiagnosticPlugin exited with code 0
