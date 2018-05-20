@@ -1,0 +1,10 @@
+C:\Dev\timothymoore7\Chroma\ChromaTestApp\ChromaTestApp\bin\Debug\ChromaTestApp.exe.config
+C:\Dev\timothymoore7\Chroma\ChromaTestApp\ChromaTestApp\bin\Debug\ChromaTestApp.exe
+C:\Dev\timothymoore7\Chroma\ChromaTestApp\ChromaTestApp\bin\Debug\ChromaTestApp.pdb
+C:\Dev\timothymoore7\Chroma\ChromaTestApp\ChromaTestApp\obj\Debug\ChromaTestApp.csprojAssemblyReference.cache
+C:\Dev\timothymoore7\Chroma\ChromaTestApp\ChromaTestApp\obj\Debug\ChromaTestApp.csproj.CoreCompileInputs.cache
+C:\Dev\timothymoore7\Chroma\ChromaTestApp\ChromaTestApp\obj\Debug\ChromaTestApp.exe
+C:\Dev\timothymoore7\Chroma\ChromaTestApp\ChromaTestApp\obj\Debug\ChromaTestApp.pdb
+C:\Dev\timothymoore7\Chroma\ChromaTestApp\ChromaTestApp\bin\Debug\Corale.Colore.dll
+C:\Dev\timothymoore7\Chroma\ChromaTestApp\ChromaTestApp\bin\Debug\Corale.Colore.xml
+C:\Dev\timothymoore7\Chroma\ChromaTestApp\ChromaTestApp\obj\Debug\ChromaTestApp.csproj.CopyComplete
